@@ -6,12 +6,6 @@
 Iterations of the Vela model.
 </p>
 
-This is a simple model of the Vela satellite I created using the [Blender](https://www.blender.org) software. I have included the files I used to create the model in this repo.
-
-The model was created to be printed at a fairly small scale. It lacks detail for a larger print — was meant as a prop for my Space Tug model that I also created in Blender (the Space Tug has manipulator arms and I wanted something for them to manipulate).
-
-I chose the Vela satellite in part because of its size relative to the Space Tug — I didn't want the satellite to dwarf the Space Tug nor be dwarfed. Also, the Vela was more or less of the same era as the proposed (1970) Space Tug.
-
 ### Proposed Space Tug of 1970, 1971
 
 Wikipedia has an overview of the proposed [space tug](https://en.wikipedia.org/wiki/Space_tug). If you do some searching there are a few other sites that are a good deal more exhaustive in covering the space tug. If you dig further still there are a number of NASA documents from the early 1970's that also go into great depth on the proposed tug spacecraft including early work done by Rockwell and Boeing.
@@ -21,19 +15,25 @@ In short the space tug was to be a modular work horse of space construction as w
 There were a couple of different space tug designs. The one I attempted to model in 3D was the rather plain cylindrical version that is depicted in a number of NASA concept art pieces of the era.
 
 <p align="center">
-<img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/ae7abd7dd1918f8d365fce13873b1c08a39ddc44/reference_images/Vela_0_Pair.jpg" alt="Vela in clean room.">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/72ab2438f87ddce4535bf59b1d28144a1c873028/reference_images/Space%20Tug%20-%20Crew%20Module.jpg" alt="Space tug crew module.">
 </p>
 
 <p align="center">
-<img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/ae7abd7dd1918f8d365fce13873b1c08a39ddc44/reference_images/Vela_1_Cutaway.jpeg" alt="Vela cutaway diagram.">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/72ab2438f87ddce4535bf59b1d28144a1c873028/reference_images/Space%20Tug%20-%20Elements.jpg" alt="Space tug modular nature.">
 </p>
 
 <p align="center">
-<img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/ae7abd7dd1918f8d365fce13873b1c08a39ddc44/reference_images/Vela_2_Assembly_1968.jpg" alt="Vela assembly.">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/72ab2438f87ddce4535bf59b1d28144a1c873028/reference_images/Space%20Tug%20-%20Probe%20Launch.jpg" alt="Space tug launching a satellite.">
 </p>
 
 <p align="center">
-<img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/ae7abd7dd1918f8d365fce13873b1c08a39ddc44/reference_images/Vela_3_Museum.jpg" alt="Vela in museum.">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/72ab2438f87ddce4535bf59b1d28144a1c873028/reference_images/Space%20Tug%20-%20Satellite%20Repair.jpg" alt="Space tug repairing a satellite.">
+</p>
+
+I included the following graphic because it shows a timeline for space exploration as envisioned in 1970. I confess that when I was young I bought into that proposal and was sorely disappointed when it did not come to pass. There's no doubt that this is why I am turning to recreating this fascinating era in 3D models.
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/72ab2438f87ddce4535bf59b1d28144a1c873028/reference_images/Space%20Tug%20-%20Timeline.gif" alt="Space tug timeline.">
 </p>
 
 ### 3D Model
