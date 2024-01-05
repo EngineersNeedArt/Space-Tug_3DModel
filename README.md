@@ -42,6 +42,18 @@ I included the following graphic because it shows a timeline for space explorati
 <img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/af153a33e2a5dde09685f580a526e8b8f8d8321e/print_images/Space%20Tug%20-%20Iterations.jpeg" alt="Space tug iterations">
 </p>
 
+I proposed to create the digital 3D model of the space tug in Blender and the print it in resin on a 3D printer. Because this model was to have an interior visible through thr windows, there was no question that it was going to be printed in sperate pieces. It would be impossible to paint the interior otherwise.
+
+So the first work was to experiment with breaking the space tug model into both an interior and exterior model.
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/933a54f30375e6010726e80861a590a87b3d2bd4/print_images/Space%20Tug%20-%20Early%20Work.jpeg" alt="Early iterations to determine scale and breakdown.">
+</p>
+
+The above image shows the iterations experimenting with scale, wall thickness, and component break down. You can see near the bottom of the image what would come out of these experiments: a central "washing-machine-like agitator" for the interior and a cylindrical exterior with three vertical guides to accept the three interior walls.
+
+The floor would be integrated into the interior and the whole interior slid up from below. At this point I knew a ceiling would be another separate component. As I continued work on the space tug, many more parts would be added.
+
 <p align="center">
 <img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/af153a33e2a5dde09685f580a526e8b8f8d8321e/print_images/Space%20Tug%20-%20Lighting.jpeg" alt="Lighting of the space tug.">
 </p>
