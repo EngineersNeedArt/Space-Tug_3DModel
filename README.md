@@ -78,9 +78,29 @@ Radiator-like fluting for the anti-glare panel beneath the window as well as aro
 
 The windows angle downward as depicted in many of the artist's concepts of the era. Likely to allow greater visibility for objects just below the astronauts. Two recessed lights are scooped out to the left and right of the windows.
 
-A large cutout is left just below the windows - this is for the part of the model I call the "arm box". You will see this part later.
+A large cutout is left just below the windows - this is for the part of the model I call the *arm box*. You will see this part later.
 
 Walls are reinforced around the interior of the part with the additional grooves that allow the interior walls to slot in place. A lip around the top interior circumference will seat the "roof" part.
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/dce04861a5cef8d03a4c85f8b9c44e6e0fc769e9/print_images/Space%20Tug%20-%20Arm%20Box.jpeg" alt="Space tug arm box.">
+</p>
+
+Most of the artwork of the era show the manipulator arms of the space tug just hanging out, attached somewhere to the exterior of the spacecraft. Instead I wanted an area where the arms could be *stowed*. So perhaps in a nod to R2-D2, I designed the arms to fold more or less flush into an "arm box" below the windows. This would correspond to an interior volume just in front of the standing astronauts knees.
+
+Making this a separate part makes it a good deal easier to paint.
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/dce04861a5cef8d03a4c85f8b9c44e6e0fc769e9/print_images/Space%20Tug%20-%20Arms.jpeg" alt="Space tug arms">
+</p>
+
+The arms are broken down into four parts each - there being both a port and a starboard arm means eight parts in total. In this way the arms are "posable". My method of connecting the parts leaves a lot to be desired so I soon found it made more sense to glue the arms in whatever position the modeller envisions. In fact, by printing additional arms parts, the modeller can position a pair of arms *stowed* and a pair of arms *manipulating* and swap between the two.
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/dce04861a5cef8d03a4c85f8b9c44e6e0fc769e9/print_images/Space%20Tug%20-%20Arms%20One%20Piece.jpeg" alt="Space tug arms printed as one-piece">
+</p>
+
+I experimented with 3D printing the stowed arms as a single piece each to make it unneccesary to glue the four parts together for each arm. This might make sense for the manipulating arm poses as well.
 
 <p align="center">
 <img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/af153a33e2a5dde09685f580a526e8b8f8d8321e/print_images/Space%20Tug%20-%20Lighting.jpeg" alt="Lighting of the space tug.">
