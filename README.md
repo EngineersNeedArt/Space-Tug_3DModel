@@ -130,6 +130,8 @@ And then there is the "roof" of the space tug — shown above after I had begun
 
 The last component of the space tug I modelled are the four, small reaction control thrusters (RCS, or reaction control system). One is shown above prior to detailing. Four of these attach around the exterior body of the space tug in a radial fashion.
 
+### Assembly, Painting 
+
 <p align="center">
 <img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/af153a33e2a5dde09685f580a526e8b8f8d8321e/print_images/Space%20Tug%20-%20Lighting.jpeg" alt="Lighting of the space tug.">
 </p>
