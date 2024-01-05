@@ -1,9 +1,9 @@
 # Space Tug 3D Model
 
 <p align="center">
-<img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/ae7abd7dd1918f8d365fce13873b1c08a39ddc44/print_images/Model_8_Iterations.jpeg" alt="Vela 3D models iterated.">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/af153a33e2a5dde09685f580a526e8b8f8d8321e/print_images/Space%20Tug%20-%20Completed.jpeg" alt="Finished Space Tug model.">
 <br>
-Iterations of the Vela model.
+Finished Space Tug model.
 </p>
 
 ### Proposed Space Tug of 1970, 1971
@@ -39,35 +39,11 @@ I included the following graphic because it shows a timeline for space explorati
 ### 3D Model
 
 <p align="center">
-<img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_0_Two_prints.jpeg" alt="Vela printed in two halves.">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/af153a33e2a5dde09685f580a526e8b8f8d8321e/print_images/Space%20Tug%20-%20Iterations.jpeg" alt="Space tug iterations">
 </p>
 
 <p align="center">
-<img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_1_Prints_joined.jpeg" alt="Two model halves joined">
-</p>
-
-<p align="center">
-<img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_2_Black_coat.jpeg" alt="Black coat of paint.">
-</p>
-
-<p align="center">
-<img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_3_Color_changing_coat.jpeg" alt="Coat of color-changing paint.">
-</p>
-
-<p align="center">
-<img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_4_Vinyl_masks.jpeg" alt="Vinyl masks.">
-</p>
-
-<p align="center">
-<img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_5_Masks_applied.jpeg" alt="Vinyl masks applied to model.">
-</p>
-
-<p align="center">
-<img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_6_Silver_coat.jpeg" alt="Metallic coat of paint applied.">
-</p>
-
-<p align="center">
-<img width="600" src="https://github.com/EngineersNeedArt/Vela-Satellite_3DModel/blob/c421935828cbd39ab146ebb1253e657693c91e07/print_images/Model_7_Masks_removed.jpeg" alt="Vinyl masks removed.">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/af153a33e2a5dde09685f580a526e8b8f8d8321e/print_images/Space%20Tug%20-%20Lighting.jpeg" alt="Lighting of the space tug.">
 </p>
 
 <p align="center">
