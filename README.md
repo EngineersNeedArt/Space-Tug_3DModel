@@ -100,7 +100,7 @@ The arms are broken down into four parts each - there being both a port and a st
 <img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/dce04861a5cef8d03a4c85f8b9c44e6e0fc769e9/print_images/Space%20Tug%20-%20Arms%20One%20Piece.jpeg" alt="Space tug arms printed as one-piece">
 </p>
 
-I experimented with 3D printing the stowed arms as a single piece each to make it unneccesary to glue the four parts together for each arm. This might make sense for the manipulating arm poses as well.
+I experimented with 3D printing the stowed arms as a single piece each to make it unneccesary to glue the four parts together for each arm. This might make sense for the manipulating arm poses as well. The photo above shows the arms fresh out of the printer - the supports and base still attached.
 
 <p align="center">
 <img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/54c74b945e894f50eca5a36db999b250b19f4924/print_images/Space%20Tug%20-%20Exterior%20Floor.jpeg" alt="Exterior floor of Space Tug.">
