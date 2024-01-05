@@ -103,6 +103,34 @@ The arms are broken down into four parts each - there being both a port and a st
 I experimented with 3D printing the stowed arms as a single piece each to make it unneccesary to glue the four parts together for each arm. This might make sense for the manipulating arm poses as well.
 
 <p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/54c74b945e894f50eca5a36db999b250b19f4924/print_images/Space%20Tug%20-%20Exterior%20Floor.jpeg" alt="Exterior floor of Space Tug.">
+</p>
+
+When printing in 3D you may be aware that supports generally have to be added so that the process of extruding the part can be accomplished. This often has the unfortunate effect of leaving blemishes on the supported side of the part. For this reason, even though there is a floor in the interior of my space tug model, I elected to print as a seperate piece the part that woudl represent the exterior "floor" of the hull.
+
+Fluting was added to imply reinforcing ribs for structural integrity — also a detail lifted from contemporary spacecraft of the 1970's.
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/54c74b945e894f50eca5a36db999b250b19f4924/print_images/Space%20Tug%20-%20Ceiling.jpeg" alt="Space tug interior ceiling.">
+</p>
+
+Following the same pattern, I modelled a seperate part to represent the interior ceiling of the space tug and, as you will see below, another part that is for the exterior roof of the hull.
+
+Again, like the main interior part, more detail could certainly be added. Instead I contented myself with the two windows (for use when docking) some support ribs, and a couple of extrusions that were to represent more displays or spacecraft controls. As you'll see I ultimately ended up slipping some lighting hardware in these extrusions.
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/54c74b945e894f50eca5a36db999b250b19f4924/print_images/Space%20Tug%20-%20Exterior%20Roof.jpeg" alt="Exterior roof of the space tug">
+</p>
+
+And then there is the "roof" of the space tug — shown above after I had begun to paint it. Corresponding windows for docking and the central gole for the access tunnel are the primary features. Also, as suggested in some of NASA's artist's concepts, ribbed rings and spokes suggest structural reinforcing.
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/54c74b945e894f50eca5a36db999b250b19f4924/print_images/Space%20Tug%20-%20RCS.jpeg" alt="Space tug RCS module.">
+</p>
+
+The last component of the space tug I modelled are the four, small reaction control thrusters (RCS, or reaction control system). One is shown above prior to detailing. Four of these attach around the exterior body of the space tug in a radial fashion.
+
+<p align="center">
 <img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/af153a33e2a5dde09685f580a526e8b8f8d8321e/print_images/Space%20Tug%20-%20Lighting.jpeg" alt="Lighting of the space tug.">
 </p>
 
