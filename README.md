@@ -55,6 +55,20 @@ The above image shows the iterations experimenting with scale, wall thickness, a
 The floor would be integrated into the interior and the whole interior slid up from below. At this point I knew a ceiling would be another separate component. As I continued work on the space tug, many more parts would be added.
 
 <p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/4ef9216ba9387edd4d38d24cf503873339ccc32f/print_images/Space%20Tug%20-%20Main%20Interior.jpeg" alt="Space tug interior.">
+</p>
+
+After a number of iterations (as usual), the interior began to take on the shape above. Although probably not visible, I was intent to make the floor resemble that of Sky Lab - suggesting a lattice that allows specially designed shoes to lock in place anchoring the astronauts when they desire it.
+
+I knew I wanted a central column that would represent a kind of airlock as well as being the means of moving between the space tug and a docked vehicle or space station. A large hatch then was modelled to sit more or less in the center of the central cylinder.
+
+Two equipment closets were added. I had hoped to add some equipment, like a space suit for example, but my modelling skills were not up to it.
+
+Finally a number of displays were added radially around the central cylinder suggesting control panels or computer interfaces.
+
+A lot more detail could be added as I expect the interior to be the most detail-rich aspect of the space tug. But I stopped at this point due to a degree of laziness and the fact that you would not be able to see much of the interior when the model was completed.
+
+<p align="center">
 <img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/af153a33e2a5dde09685f580a526e8b8f8d8321e/print_images/Space%20Tug%20-%20Lighting.jpeg" alt="Lighting of the space tug.">
 </p>
 
