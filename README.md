@@ -69,6 +69,20 @@ Finally a number of displays were added radially around the central cylinder sug
 A lot more detail could be added as I expect the interior to be the most detail-rich aspect of the space tug. But I stopped at this point due to a degree of laziness and the fact that you would not be able to see much of the interior when the model was completed.
 
 <p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/adb1073506a09537cfe099f48a5ebde8da391181/print_images/Space%20Tug%20-%20Main%20Exterior.jpeg" alt="Space tug exterior component.">
+</p>
+
+The largest component is of course the exterior of the space tug as shown above.
+
+Radiator-like fluting for the anti-glare panel beneath the window as well as around the lower circumference of the exterior were important visual elements that borrow from elements of contemporary spacecraft of the time: notably the Saturn V rocket.
+
+The windows angle downward as depicted in many of the artist's concepts of the era. Likely to allow greater visibility for objects just below the astronauts. Two recessed lights are scooped out to the left and right of the windows.
+
+A large cutout is left just below the windows - this is for the part of the model I call the "arm box". You will see this part later.
+
+Walls are reinforced around the interior of the part with the additional grooves that allow the interior walls to slot in place. A lip around the top interior circumference will seat the "roof" part.
+
+<p align="center">
 <img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/af153a33e2a5dde09685f580a526e8b8f8d8321e/print_images/Space%20Tug%20-%20Lighting.jpeg" alt="Lighting of the space tug.">
 </p>
 
