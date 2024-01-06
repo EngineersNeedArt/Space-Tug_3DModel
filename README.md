@@ -182,6 +182,20 @@ Maybe the red was too much. But in fact I ended up painting most of the red area
 <img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/5c82c8ddf437002ab1437e015ddbee9b2c240bea/print_images/Space%20Tug%20-%20Exterior%20Final%20Paint.jpeg" alt="Exterior painting complete.">
 </p>
 
+I used a vinyl cutter to create masks for a variety of purposes. The number "3" on the side of the Space Tug was done with a vinyl mask.
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/51a394ee5737b986fd2c99458cbebaf808f0d376/print_images/Space%20Tug%20-%20Vinyl%20Mask.jpeg" alt="Vinyl mask.">
+</p>
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/51a394ee5737b986fd2c99458cbebaf808f0d376/print_images/Space%20Tug%20-%20Vinyl%20Mask%20Painted.jpeg" alt="Vinyl mask painted.">
+</p>
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/51a394ee5737b986fd2c99458cbebaf808f0d376/print_images/Space%20Tug%20-%20Vinyl%20Mask%20Removed.jpeg" alt="Vinyl mask removed.">
+</p>
+
 <p align="center">
 <img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/af153a33e2a5dde09685f580a526e8b8f8d8321e/print_images/Space%20Tug%20-%20Lighting.jpeg" alt="Lighting of the space tug.">
 </p>
