@@ -137,6 +137,18 @@ I made models when I was young but I did not have the patience, the temperment, 
 Fortunately we have YouTube now and there are plenty of very good modellers happy to share their techniques. Fortunate too that the iterative approach to creating the space tug afforded me plenty of space tug prototypes that allowed me to experiment with different painting techniques.
 
 <p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/45f630c1ac196458da773cc210bff05612c54656/print_images/Space%20Tug%20-%20Interior%20Painting.jpeg" alt="Painting the interior.">
+</p>
+
+As an example, in one iteration of painting the interior, I decided to go with a zinc chromate color (almost a kind of primer in aerospace). In the above photo you can see the use of masks cut from vinyl, masking tape, and even the trick of using Silly Putty to mask irregular surfaces.
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/45f630c1ac196458da773cc210bff05612c54656/print_images/Space%20Tug%20-%20Interior%20Painting.jpeg" alt="Painting the interior.">
+</p>
+
+In fact I was not very happy with the color scheme but I learned a bit about some masking techniques.
+
+<p align="center">
 <img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/af153a33e2a5dde09685f580a526e8b8f8d8321e/print_images/Space%20Tug%20-%20Lighting.jpeg" alt="Lighting of the space tug.">
 </p>
 
