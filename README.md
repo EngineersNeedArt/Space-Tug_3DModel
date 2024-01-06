@@ -137,16 +137,50 @@ I made models when I was young but I did not have the patience, the temperment, 
 Fortunately we have YouTube now and there are plenty of very good modellers happy to share their techniques. Fortunate too that the iterative approach to creating the space tug afforded me plenty of space tug prototypes that allowed me to experiment with different painting techniques.
 
 <p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/5c82c8ddf437002ab1437e015ddbee9b2c240bea/print_images/Space%20Tug%20-%20Interior%20Masking.jpeg" alt="Masking the interior.">
+</p>
+
+<p align="center">
 <img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/45f630c1ac196458da773cc210bff05612c54656/print_images/Space%20Tug%20-%20Interior%20Painting.jpeg" alt="Painting the interior.">
 </p>
 
 As an example, in one iteration of painting the interior, I decided to go with a zinc chromate color (almost a kind of primer in aerospace). In the above photo you can see the use of masks cut from vinyl, masking tape, and even the trick of using Silly Putty to mask irregular surfaces.
 
 <p align="center">
-<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/45f630c1ac196458da773cc210bff05612c54656/print_images/Space%20Tug%20-%20Interior%20Painting.jpeg" alt="Painting the interior.">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/5c82c8ddf437002ab1437e015ddbee9b2c240bea/print_images/Space%20Tug%20-%20Interior%20Painted.jpeg" alt="Painted interior.">
 </p>
 
 In fact I was not very happy with the color scheme but I learned a bit about some masking techniques.
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/5c82c8ddf437002ab1437e015ddbee9b2c240bea/print_images/Space%20Tug%20-%20Exterior%20Masking.jpeg" alt="Masking the exterior.">
+</p>
+
+Masking the exterior of the space tug model was much more straight forward and could be done with simple masking tape.
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/5c82c8ddf437002ab1437e015ddbee9b2c240bea/print_images/Space%20Tug%20-%20Exterior%20Bright%20Color.jpeg" alt="Bright colors on the exterior.">
+</p>
+
+A trick I wanted to experiment with involves painting the panels of the model rather vivid colors. But then using successive coats of gray paint form the air brush to keep toning the colors down. This gives you a kind of under-color and adds some variety and "color termperature" to the otherwise plain panels of the exterior.
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/5c82c8ddf437002ab1437e015ddbee9b2c240bea/print_images/Space%20Tug%20-%20Exterior%20Tone%20Down%201.jpeg" alt="Colors being toned down on the exterior.">
+</p>
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/5c82c8ddf437002ab1437e015ddbee9b2c240bea/print_images/Space%20Tug%20-%20Exterior%20Tone%20Down%202.jpeg" alt="Colors being toned down on the exterior some more.">
+</p>
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/5c82c8ddf437002ab1437e015ddbee9b2c240bea/print_images/Space%20Tug%20-%20Exterior%20Tone%20Down%203.jpeg" alt="Colors being toned down on the exterior even more.">
+</p>
+
+Maybe the red was too much. But in fact I ended up painting most of the red areas a very dark grey anyway.
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/5c82c8ddf437002ab1437e015ddbee9b2c240bea/print_images/Space%20Tug%20-%20Exterior%20Final%20Paint.jpeg" alt="Exterior painting complete.">
+</p>
 
 <p align="center">
 <img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/af153a33e2a5dde09685f580a526e8b8f8d8321e/print_images/Space%20Tug%20-%20Lighting.jpeg" alt="Lighting of the space tug.">
