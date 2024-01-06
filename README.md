@@ -130,7 +130,7 @@ And then there is the "roof" of the space tug — shown above after I had begun
 
 The last component of the space tug I modelled are the four, small reaction control thrusters (RCS, or reaction control system). One is shown above prior to detailing. Four of these attach around the exterior body of the space tug in a radial fashion.
 
-### Assembly, Painting 
+### Painting 
 
 I made models when I was young but I did not have the patience, the temperment, or the financial means to progress beyond gluing the parts together and then hitting the model with paint from a spray can. I would not have been able to afford an airbrush at the time, and then when I was older and finally able to afford one, I found I was a little intimidated by what I percieved as a difficult to master tool.
 
@@ -196,9 +196,47 @@ I used a vinyl cutter to create masks for a variety of purposes. The number "3" 
 <img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/51a394ee5737b986fd2c99458cbebaf808f0d376/print_images/Space%20Tug%20-%20Vinyl%20Mask%20Removed.jpeg" alt="Vinyl mask removed.">
 </p>
 
+### Lighting
+
+It was important to me that there be some lighting of the model. At the very least I wanted some sort of work light similar to the space pods from "2001: A Space Odyssey". As you saw in the model above I carved out two exterior recesses - one on each side of the window - intended for lights to be installed.
+
 <p align="center">
-<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/af153a33e2a5dde09685f580a526e8b8f8d8321e/print_images/Space%20Tug%20-%20Lighting.jpeg" alt="Lighting of the space tug.">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/5e52b191e44e4e5badc3420985ed57513f48c813/print_images/Space%20Tug%20-%20Kristal%20Klear.jpeg" alt="Kristal Klear for windows.">
 </p>
+
+There is a product in modelling called Kristal Klear. While I purchased a bottle of it for the Space Tug, I am convinced it is nothing more than PVA glue. In any event, its utility is that it dries clear — and so I experimented with creating small drops of Kristal Klear on waxed paper in order to create small lended for the two work lights on the exterior of the Space Tug.
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/5e52b191e44e4e5badc3420985ed57513f48c813/print_images/Space%20Tug%20-%20Work%20Light.jpeg" alt="Work light with Kristal Klear lens.">
+</p>
+
+Very small LEDs can be purchased in a variety of colors. For each work light, I installed a small warm-white LED with the wires running into the space tug interior. First, a small drop of Kristal Klear was added to fill the empty space within the recess around the LED and then a Kristal Klear "lens" was selected and glued on top.
+
+I have mixed feelings about the result. I wish in fact you could not see the LED. This is not an issue however when the LEDs are lit up.
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/5e52b191e44e4e5badc3420985ed57513f48c813/print_images/Space%20Tug%20-%20Ceiling%20LEDs2.jpeg" alt="LEDs installed in ceilng recesses.">
+</p>
+
+Foe cabin lighting I had added the two protusions in the ceiling for just such a purpose. I liked the red interior lighting I had seen in a few 1970's artist's concepts of the space tug (Robert McCall, for example) and it also reminded me of a few scenes again from "2001: A Space Odyssey". I thought also that a warm white light might be interesting so I installed both colors of LEDs on separate circuits.
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/5e52b191e44e4e5badc3420985ed57513f48c813/print_images/Space%20Tug%20-%20Ceilng%20LEDs.jpeg" alt="Kristal Klear again used.">
+</p>
+
+Again Kristal Klear was poured over the LEDs, filling the void. (And I had decided against the zinc chromate color for the ceiling and hit it with grey before the above photo was taken.)
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/5e52b191e44e4e5badc3420985ed57513f48c813/print_images/Space%20Tug%20-%20Wiring.jpeg" alt="Internal wiring.">
+</p>
+
+The wiring for the six LEDs was brought together and a connector run into the central access cylinder. One circuit would power the red LEDs plus the external work lights while another circuit would power just the interior warm white lights.
+
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/af153a33e2a5dde09685f580a526e8b8f8d8321e/print_images/Space%20Tug%20-%20Lighting.jpeg" alt="Space tug lghting.">
+</p>
+
+Above is a photo of the lights.
 
 <p align="center">
 <i>"Good enough for 1.0…"</i>
