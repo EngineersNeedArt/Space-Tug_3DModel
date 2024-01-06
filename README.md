@@ -132,6 +132,10 @@ The last component of the space tug I modelled are the four, small reaction cont
 
 ### Assembly, Painting 
 
+I made models when I was young but I did not have the patience, the temperment, or the financial means to progress beyond gluing the parts together and then hitting the model with paint from a spray can. I would not have been able to afford an airbrush at the time, and then when I was older and finally able to afford one, I found I was a little intimidated by what I percieved as a difficult to master tool.
+
+Fortunately we have YouTube now and there are plenty of very good modellers happy to share their techniques. Fortunate too that the iterative approach to creating the space tug afforded me plenty of space tug prototypes that allowed me to experiment with different painting techniques.
+
 <p align="center">
 <img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/af153a33e2a5dde09685f580a526e8b8f8d8321e/print_images/Space%20Tug%20-%20Lighting.jpeg" alt="Lighting of the space tug.">
 </p>
