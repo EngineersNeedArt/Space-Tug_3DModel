@@ -6,6 +6,59 @@
 Finished Space Tug model.
 </p>
 
+The space tug was a proposed space craft from around 1970, 1971. If you checked out library books about space flight from that decade you would often see artist's concepts of the space tug. It was thought that the coming age of space exploration would require a kind of work horse to assemble space stations, launch and repair artifical satellites, ferry crew between space craft and space stations, etc.
+
+I had always been fascinated by this little utilitarian vehicle, always disappointed there was never a plastic model kit made of it.
+
+When I got older I attempted a few times to scratch-build a model using the techniques used to create model spacecraft for Hollywood movies.
+
+At some point I decided to have a go at using Blender to model the space tug and a 3D resin printer to produce a physical representation of my model. It was of course a means to satisfy a decades old itch I had had since I was young — but too it was a way to learn the limits of both Blender and resin printing.
+
+### The Files
+
+I have included all the files needed to create my model of the 1970's-era Space Tug.
+
+The files I have included are a mix of Blender files and STL files. The Blender files contain all the parts (at least a dozen) of the space tug. There is not a one-to-one correlation betwene the Blender files and the parts as some of the Blender files contain multiple objects.
+
+The STL files I included could perhaps be directly imported into your favorite slicer application but I included them more as a kind of preview of each part. 
+
+Here I list the Blender files and what parts they contain:
+
+  * SpaceTug_Armbox.blend
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Contains just the arm-box. Export and print.*
+
+  * SpaceTug_Arms.blend
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Some arms retracted, some extended, arm parts. Ignore arm boxes — they’re to aid in positioning arms.*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*You can export the individual arm pieces and then assemble them or export an entire posed arm and print that.*
+
+  * SpaceTug_Bottom.blend
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Contains both the bottom of the space tug and an airlock hatch. Export and print both pieces.*
+
+  * SpaceTug_Ceiling.blend
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Contains the ceiling piece. Export and print.*
+
+  * SpaceTug_Exterior.blend
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Contains the tug exterior and a pair of RCS objects (one larger). Export and print exterior and four of the RCS objects.*
+
+  * SpaceTug_Interior.blend
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Contains the space tug interior. Export and print.*
+
+  * SpaceTug_Stand.blend
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Optional stand for the space tug. Export and print if you like.*
+
+  * SpaceTug_Top.blend
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Contains the top of the space tug. Export and print.*
+
+
 ### Proposed Space Tug of 1970, 1971
 
 Wikipedia has an overview of the proposed [space tug](https://en.wikipedia.org/wiki/Space_tug). If you do some searching there are a few other sites that are a good deal more exhaustive in covering the space tug. If you dig further still there are a number of NASA documents from the early 1970's that also go into great depth on the proposed tug spacecraft including early work done by Rockwell and Boeing.
