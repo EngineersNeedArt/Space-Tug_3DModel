@@ -1,4 +1,4 @@
-# Space Tug 3D Model
+# Space Tug, 3D Model
 
 <p align="center">
 <img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/af153a33e2a5dde09685f580a526e8b8f8d8321e/print_images/Space%20Tug%20-%20Completed.jpeg" alt="Finished Space Tug model.">
