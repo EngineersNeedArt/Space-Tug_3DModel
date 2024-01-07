@@ -12,6 +12,10 @@ I had always been fascinated by this little utilitarian vehicle, always disappoi
 
 When I got older I attempted a few times to scratch-build a model using the techniques used to create model spacecraft for Hollywood movies.
 
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/Space-Tug_3DModel/blob/52eba68fa8ec698a02d9a3b555eb3f377cec4d60/print_images/Space%20Tug%20-%20Blender.png" alt="Model in Blender.">
+</p>
+
 At some point I decided to have a go at using Blender to model the space tug and a 3D resin printer to produce a physical representation of my model. It was of course a means to satisfy a decades old itch I had had since I was young — but too it was a way to learn the limits of both Blender and resin printing.
 
 ### The Files
