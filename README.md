@@ -58,6 +58,19 @@ Here I list the Blender files and what parts they contain:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Contains the top of the space tug. Export and print.*
 
+### Printing
+
+Scale, as far as I know, is not solved with 3D prints. It seems regardless of the scale I specify in the Blender files, the exported STL files, when brought into a slicer application, are some other scale. They are consistent between the parts and files I have included here though. So if you scale an object exported from one Blender file and print it, another object from another file, scaled the same amount, will print at a size compatible with the first object.
+
+The scale I chose for my space tug is about 1/48 scale. Since the space tug was never actually built, I could kind of make up whatever size I wanted for it. I noted that the Space Shuttle could accomodate a cylindical payload with a maximum of 4.6 meters in diameter. I think therefore I chose something like 4.5 meters or about 15 feet for the diamter of my space tug.
+
+At 1/48 scale the resulting model would havce a diameter of about 93mm. When I pull the exterior STL object into the CHITUBOX slicer, I determined I needed to scale it up 2083.33%. It is an odd amount, and not critical. But whatever scale you choose, use that for all other parts that you print to maintain the same relative scale.
+
+By the way, having chosen the 1/48 scale meant I needed a larger resin printer than the one I had at the time. Oh well.
+
+Also, by the way, choosing a scale ended up solving some other issues down the road — for example, how much detail is *enough* detail. Given the final size of the model and resolution of the 3D printer, it became clear when I was adding detail too small to be resolved by the printer. (In fact, for the small RCS rockets I ended up scaling them up just so they could be printed.)
+
+If you have a printer capable of printing larger, you could scale the model up. You may find however that at larger scales expected detail is lacking.
 
 ### Proposed Space Tug of 1970, 1971
 
