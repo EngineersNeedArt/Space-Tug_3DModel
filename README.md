@@ -72,6 +72,8 @@ Also, by the way, choosing a scale ended up solving some other issues down the r
 
 If you have a printer capable of printing larger, you could scale the model up. You may find however that at larger scales expected detail is lacking.
 
+Finally, I did not have any appropriate "shirt sleeve" astronauts for my space tug. Searching around the internet I did find a woman with a camera and a standing man that I scaled to about 1/48. Since they were not my creation I have not included them here. I wish I had the skill to model people and could have included astronauts.
+
 ### Proposed Space Tug of 1970, 1971
 
 Wikipedia has an overview of the proposed [space tug](https://en.wikipedia.org/wiki/Space_tug). If you do some searching there are a few other sites that are a good deal more exhaustive in covering the space tug. If you dig further still there are a number of NASA documents from the early 1970's that also go into great depth on the proposed tug spacecraft including early work done by Rockwell and Boeing.
